@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.2.0/Chad-darwin-arm64-0.2.0.zip",
-  "name": "0.2.0",
-  "version": "0000000000000000000000000000000000000000",
-  "productVersion": "0.2.0.0",
-  "hash": "0000000000000000000000000000000000000000",
-  "timestamp": 1735100000000,
-  "sha256hash": "0000000000000000000000000000000000000000000000000000000000000000"
+  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.1.2/Chad-darwin-arm64-0.1.2.zip",
+  "name": "0.1.2",
+  "version": "0341cfdab2977578d03acd0617aae00be5648980",
+  "productVersion": "0.1.2.0",
+  "hash": "e93c94898c28bd6ca0f0f75ecab097002346e9ce",
+  "timestamp": "1761870920668",
+  "sha256hash": "d33514904ecb500ea18c381061022582725f972e4c5dcc6d5a10291fdae11abd"
 }
