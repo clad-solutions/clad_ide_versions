@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.1.2/Chad-darwin-x64-0.1.2.zip",
-  "name": "0.1.2",
-  "version": "0341cfdab2977578d03acd0617aae00be5648980",
-  "productVersion": "0.1.2.0",
-  "hash": "da25198788e4947bc5100ca3080bb7b4e724bf3f",
-  "timestamp": "1761871396262",
-  "sha256hash": "46e95d1a3022c702fe10cd70eba2ed0ccf9605577981f1ef786a58b6dd353508"
+  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.2/Chad-darwin-x64-0.0.2.zip",
+  "name": "0.0.2",
+  "version": "006b4f6d609dc60e44c47279c2e311ccf1c78a30",
+  "productVersion": "0.0.2.0",
+  "hash": "05a181736890c614c5e699b25f3a9453efc0e95d",
+  "timestamp": "1762118976205",
+  "sha256hash": "4ff7334b0ac17da08295e28ee1d24ddc1ba2c6221e8c42e8f51b8e6f96726e2c"
 }
