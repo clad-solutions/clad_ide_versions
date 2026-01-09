@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.33/ChadUserSetup-arm64-0.0.33.exe",
-  "name": "0.0.33",
-  "version": "cac178daf04b689277091b4c882a0b2f8aa5d9ab",
-  "productVersion": "0.0.33.0",
-  "hash": "3c1e582281cbc931c3585519f25ea83fd64c9dee",
-  "timestamp": "1766875805469",
-  "sha256hash": "9a28971874c632700080575d3b5cd1b6d3caaeae3c6513c99a89464fdeb49ccb"
+  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.34/ChadUserSetup-arm64-0.0.34.exe",
+  "name": "0.0.34",
+  "version": "3060116b94294fb3be1bdf52718466b24a6e453a",
+  "productVersion": "0.0.34.0",
+  "hash": "670012ab48a077aae3ac93ee52109603ee28c80a",
+  "timestamp": "1767980770584",
+  "sha256hash": "b50e74ab5cad54072dff074eda48c64d129b640f4832d33ede969751bdaa043f"
 }
