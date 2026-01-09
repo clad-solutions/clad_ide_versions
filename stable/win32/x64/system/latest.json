@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.33/ChadSetup-x64-0.0.33.exe",
-  "name": "0.0.33",
-  "version": "cac178daf04b689277091b4c882a0b2f8aa5d9ab",
-  "productVersion": "0.0.33.0",
-  "hash": "ecfefdd2fb41fab734a2c0d80e52eb849b56b11c",
-  "timestamp": "1766877139245",
-  "sha256hash": "f10d6c7e19e650870a109a6eb070c2fa9d9b67dba3def9e072f99b07c04c1c12"
+  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.34/ChadSetup-x64-0.0.34.exe",
+  "name": "0.0.34",
+  "version": "3060116b94294fb3be1bdf52718466b24a6e453a",
+  "productVersion": "0.0.34.0",
+  "hash": "62063f38b0ef1a13cc308b118946914b86f87970",
+  "timestamp": "1767982102848",
+  "sha256hash": "d7afbb8911d26c06703b0937d502ad88f5ca237b37c2ba7e5f2305385f16b85c"
 }
