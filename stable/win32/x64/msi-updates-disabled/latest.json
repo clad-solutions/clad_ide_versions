@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.38/Chad-x64-updates-disabled-0.0.38.msi",
-  "name": "0.0.38",
-  "version": "4b3344d3b27ced8c8a6770e7b27dd1eaefa64780",
-  "productVersion": "0.0.38.0",
-  "hash": "65e529f6e65b4830c67a2f5419731bf80fec1cde",
-  "timestamp": "1769932322653",
-  "sha256hash": "42265dfcb680f470c0908c696df64628b07c42d9cc1d4e2e981d0daf9ab746a9"
+  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.39/Chad-x64-updates-disabled-0.0.39.msi",
+  "name": "0.0.39",
+  "version": "327902d006c5020b9c63c5f3a98619e6b1c73351",
+  "productVersion": "0.0.39.0",
+  "hash": "8dba226184d97bb7be8123831c4c6ea4da437077",
+  "timestamp": "1770596572396",
+  "sha256hash": "f1b9e697ba39725b43c77e52f68c645d96283c3668722cf7df27a6ef8c8966d8"
 }
