@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.39/Chad-win32-x64-0.0.39.zip",
-  "name": "0.0.39",
-  "version": "327902d006c5020b9c63c5f3a98619e6b1c73351",
-  "productVersion": "0.0.39.0",
-  "hash": "eec2111ee4453c41ce7662acb68ebe5fd549efe4",
-  "timestamp": "1770596571950",
-  "sha256hash": "7651b7ffd89e3751918005901e8a269cf44d5925785f1b6ccc7408e970478702"
+  "url": "https://github.com/clad-solutions/clad_ide_binaries/releases/download/0.0.42/Chad-win32-x64-0.0.42.zip",
+  "name": "0.0.42",
+  "version": "6d69839033c8f0a2c0eaa0f942d835ba1183b81d",
+  "productVersion": "0.0.42.0",
+  "hash": "4c0d5a9729faff0fc5d57da463020e2ce091a4fa",
+  "timestamp": "1771225525322",
+  "sha256hash": "4716161cee5e59ee48e4e7e35f1dde5a5f4293d2c32a56b961d95f2476d68576"
 }
